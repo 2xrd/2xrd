@@ -16,7 +16,6 @@
 - A passionate Self-taught Web Developer
 - Playing League Of Legends at spare time
 - Currently learning Unreal Engine
-- Personal website [link](https://www.klanter.dev)
 - I'm currently open for a business opportunity and partnership
 
 <br><br>
