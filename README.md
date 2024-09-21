@@ -107,7 +107,7 @@
 </li>
 <br>
 <li>
-<a href="https://sptfy.com/medios" target="_blank">
+<a href="https://open.spotify.com/intl-tr/artist/4Wnc2nLkEKGLsHi4JexRo6?si=Fa5HVsdWTSuR_Rds2SJwlA" target="_blank">
 <img src="https://img.shields.io/badge/spotify:  medios-%2300acee.svg?color=1DB954&style=for-the-badge&logo=spotify&logoColor=white" alt=spotify style="margin-bottom: 5px;"/>
 </a>
 </li>
