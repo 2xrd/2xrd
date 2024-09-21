@@ -101,8 +101,8 @@
 
 <ul>
 <li>
-<a href="https://youtube.com/@klanter" target="_blank">
-<img src="https://img.shields.io/badge/youtube:  klanter-%2300acee.svg?color=c4302b&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin-bottom: 5px;"/>
+<a href="https://youtube.com/@medios" target="_blank">
+<img src="https://img.shields.io/badge/youtube:  medios-%2300acee.svg?color=c4302b&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin-bottom: 5px;"/>
 </a>
 </li>
 <br>
