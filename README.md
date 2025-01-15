@@ -76,8 +76,8 @@
 <br>
 <br> 
 ## <b> Discord!</b>
-[![Discord Presence](https://lanyard.cnrad.dev/api/378501743366897675)](https://discord.com/users/378501743366897675)
-</p>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/378501743366897675?bg=000000&theme=dark&showDisplayName=true)](https://discord.com/users/378501743366897675)
 <br>
 <br> 
 ## <b> My Social Connections..!</b>
