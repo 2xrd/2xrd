@@ -75,7 +75,10 @@
 
 <br>
 <br> 
-
+## <b> Discord!</b>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/191906844199878656?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/378501743366897675)
+<br>
+<br> 
 ## <b> My Social Connections..!</b>
 
 <br>
