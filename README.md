@@ -78,7 +78,6 @@
 
 ## <b> Discord</b>
 [![Discord Presence](https://lanyard.cnrad.dev/api/378501743366897675?bg=000000&theme=dark&showDisplayName=false&hideSpotify=true&hideTimestamp=true&hideStatus=true&borderRadius=20&hideDiscrim=false)](https://discord.com/users/378501743366897675)
-
 <br>
 <br> 
 
