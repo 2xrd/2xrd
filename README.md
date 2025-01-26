@@ -14,7 +14,7 @@
 <br>
 
 - A passionate Self-taught Web Developer
-- Playing League Of Legends at spare time
+- Playing Counter Strike 2 at spare time
 - Currently learning Unreal Engine
 - I'm currently open for a business opportunity and partnership
 
